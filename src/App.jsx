@@ -12,7 +12,7 @@ const App = () => {
       <Header />
       <CheckoutForm />
       <RecordTable />
-      {/* <Footer /> */}
+      <Footer />
       <ProductDrawer />
     </div>
   );
